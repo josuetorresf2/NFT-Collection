@@ -1,4 +1,4 @@
-# SubstraPunks
+# Animation NFT Punks
 
 ## Project Description
 This is a Substrate based remake of CryptoPunks game, a classic game that inspired ERC-721 Ethereum standard.
